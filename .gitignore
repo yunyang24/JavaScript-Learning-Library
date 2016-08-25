@@ -35,3 +35,19 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# Ignore Mac OS desktop services store
+.DS_Store
+
+# Ignore Windows desktop setting file
+desktop.ini
+
+#webstorm默认项目文件
+.idea
+
+#sbulime-text默认的项目文件
+
+*.sublime-project
+*.sublime-workspace
+*.swp
+

@@ -1,0 +1,29 @@
+{
+  "name": "weixin-dev",
+  "version": "1.0.0",
+  "description": "weixin develop, nodejs + koa",
+  "main": "app.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunyang24/wxDev-demo.git"
+  },
+  "keywords": [
+    "wx",
+    "weixin",
+    "dev",
+    "nodejs",
+    "koa"
+  ],
+  "author": "feiyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yunyang24/wxDev-demo/issues"
+  },
+  "homepage": "https://github.com/yunyang24/wxDev-demo#readme",
+  "dependencies": {
+    "koa": "^1.2.1"
+  }
+}
