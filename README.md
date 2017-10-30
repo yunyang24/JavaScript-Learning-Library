@@ -1,3 +1,2 @@
-# wxDev-demo
+# JavaScript Learning Library
 
-Nodejs + Koa
